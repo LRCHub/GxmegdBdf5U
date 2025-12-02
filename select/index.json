@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Rumor ルーマー / HACHI.cover 【歌ってみた】",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-02T03:45:45.357119Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rumor",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/01_Rumor_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rumor Has It",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/02_Rumor_Has_It_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rumor Has It",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/03_Rumor_Has_It_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rumor Has It (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/04_Rumor_Has_It_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rumor Of Love",
+      "artist": "berlin",
+      "has_synced": true,
+      "path": "select/05_Rumor_Of_Love_berlin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rumor (Acoustic Remix)",
+      "artist": "ILOVEMAKONNEN",
+      "has_synced": false,
+      "path": "select/06_Rumor_(Acoustic_Remix)_ILOVEMAKONNEN.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rumor (Acoustic Remix)",
+      "artist": "iLoveMakonnen",
+      "has_synced": true,
+      "path": "select/07_Rumor_(Acoustic_Remix)_iLoveMakonnen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Rumor",
+      "artist": "Savatage",
+      "has_synced": true,
+      "path": "select/08_The_Rumor_Savatage.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rumor Mill",
+      "artist": "We Are The In Crowd",
+      "has_synced": true,
+      "path": "select/09_Rumor_Mill_We_Are_The_In_Crowd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rumor Mill (Acoustic)",
+      "artist": "We Are The In Crowd",
+      "has_synced": true,
+      "path": "select/10_Rumor_Mill_(Acoustic)_We_Are_The_In_Crowd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rumor de Cumbia",
+      "artist": "Conjunto Rio Grande",
+      "has_synced": true,
+      "path": "select/11_Rumor_de_Cumbia_Conjunto_Rio_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rumor de Cumbia (En Vivo)",
+      "artist": "Conjunto Rio Grande",
+      "has_synced": false,
+      "path": "select/12_Rumor_de_Cumbia_(En_Vivo)_Conjunto_Rio_Grande.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Heard a Rumor",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/13_I_Heard_a_Rumor_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Rumor Of Skin",
+      "artist": "Stone Sour",
+      "has_synced": true,
+      "path": "select/14_A_Rumor_Of_Skin_Stone_Sour.lrc"
+    }
+  ]
+}
